@@ -1,0 +1,13 @@
+{
+    "name": "goodnesskay/doodle",
+    "description": "A test laravel package",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "goodnesskay",
+            "email": "gtkbrain@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
